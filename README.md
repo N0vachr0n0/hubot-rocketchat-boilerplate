@@ -21,7 +21,7 @@ Create and run a Rocket.Chat bot in under two minutes.
 ## Quick Start
 
 ```
-git clone https://github.com/RocketChat/hubot-rocketchat-boilerplate
+git clone https://github.com/N0vachr0n0/hubot-rocketchat-boilerplate.git
 cd hubot-rocketchat-boilerplate
 npm install
 ```
